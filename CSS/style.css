@@ -1,0 +1,13 @@
+.bg-container{
+    background-image: url("https://ik.imagekit.io/Karthik/TOURISM-PROJECT/sea-image");
+    width:300px;
+    height: 600px;
+    background-size: cover;
+}
+
+.bg-container-places{
+    background-image: url("https://ik.imagekit.io/Karthik/TOURISM-PROJECT/bg-agra");
+    width:300px;
+    height: 600px;
+    background-size: cover;
+}
